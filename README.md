@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Lee Roy Akbar
-- 👀 I’m interested in Web Development and now still in Learning to reach it
 - 🌱 I’m currently learning Computer Science at IPB University
 
 
